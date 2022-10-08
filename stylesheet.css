@@ -1,1 +1,23 @@
+.class{
+    width: 250px;
+    height: 250px;
+    margin: 8px;
+    padding: 20px;
+    border: 6px solid black;
+    color: green;
+}
 
+#myHeader{
+    background-color: blue;
+    color: red;
+    border: 2px solid black;
+    margin: 20px;
+    padding: 20px;
+}
+h1{
+    color: blue;
+}
+
+a:hover{
+    color: red;
+}
